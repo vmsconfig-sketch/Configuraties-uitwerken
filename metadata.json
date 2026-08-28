@@ -1,0 +1,6 @@
+{
+  "name": "Milestone VMS Architectuur Studio",
+  "description": "Gerichte architectuur configurator voor Milestone Systems VMS met keuze tussen Single-site, Multi-site, Federated en Interconnect, netwerkverbindingen en capaciteitsplanning voor Recorders, Management servers, Mobile servers, Clients en Camera's.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
